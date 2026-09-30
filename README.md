@@ -15,7 +15,7 @@ Vytvořeno jako praktický úkol pro společnost **INIZIO Internet Media** / **C
 
 ---
 
-## 🛠 Použité technologie
+## Použité technologie
 - **Backend:** Python 3.11+, FastAPI, Uvicorn
 - **Data Provider:** SerpApi gateway
 - **Testování:** Pytest
